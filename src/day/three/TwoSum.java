@@ -1,4 +1,4 @@
-package day.four;
+package day.three;
 
 public class TwoSum {
 	public static void main(String[] args) {

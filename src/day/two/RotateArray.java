@@ -1,4 +1,4 @@
-package day.three;
+package day.two;
 
 public class RotateArray {
 	public static void main(String[] args) {
